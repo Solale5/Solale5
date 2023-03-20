@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Solomon
 - 👀  I’m interested in web development 
-- 🌱  I’m currently learning android development and info security as of 9/1/21
+- 🌱  I’m a senior CS major at SJSU as of 3/19/23
 - 📫  How to reach me: contacts at solomonalemu.com or Solomon.alemu@sjsu.edu
 
 <!---
