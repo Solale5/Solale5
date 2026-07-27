@@ -1,7 +1,7 @@
-- 👋  Hi, I’m Solomon
-- 👀  I’m interested in web development 
-- 🌱  I’m a senior CS major at SJSU as of 3/19/23
-- 📫  How to reach me: contacts at solomonalemu.com or Solomon.alemu@sjsu.edu
+- 👋  Hi, I'm Solomon
+- 💼  Software Development Engineer at Zillow Group, building streaming data pipelines (Python, PySpark, Databricks, Kafka)
+- 🎓  SJSU Computer Science grad
+- 📫  How to reach me: contacts at solomonalemu.com or delen901@gmail.com
 
 <!---
 Solale5/Solale5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
